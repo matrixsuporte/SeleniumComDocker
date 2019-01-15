@@ -1,0 +1,11 @@
+C:\_Paulo\POCs\Ping\Ping\bin\Debug\netcoreapp2.2\Ping.deps.json
+C:\_Paulo\POCs\Ping\Ping\bin\Debug\netcoreapp2.2\Ping.runtimeconfig.json
+C:\_Paulo\POCs\Ping\Ping\bin\Debug\netcoreapp2.2\Ping.runtimeconfig.dev.json
+C:\_Paulo\POCs\Ping\Ping\bin\Debug\netcoreapp2.2\Ping.dll
+C:\_Paulo\POCs\Ping\Ping\bin\Debug\netcoreapp2.2\Ping.pdb
+C:\_Paulo\POCs\Ping\Ping\obj\Debug\netcoreapp2.2\Ping.csprojAssemblyReference.cache
+C:\_Paulo\POCs\Ping\Ping\obj\Debug\netcoreapp2.2\Ping.csproj.CoreCompileInputs.cache
+C:\_Paulo\POCs\Ping\Ping\obj\Debug\netcoreapp2.2\Ping.AssemblyInfoInputs.cache
+C:\_Paulo\POCs\Ping\Ping\obj\Debug\netcoreapp2.2\Ping.AssemblyInfo.cs
+C:\_Paulo\POCs\Ping\Ping\obj\Debug\netcoreapp2.2\Ping.dll
+C:\_Paulo\POCs\Ping\Ping\obj\Debug\netcoreapp2.2\Ping.pdb

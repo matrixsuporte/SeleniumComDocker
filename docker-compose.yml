@@ -1,0 +1,25 @@
+version: '3.4'
+
+services:
+  ping:
+    image: paulorogerio/ping
+    container_name: ping
+    build:
+      context: .
+      dockerfile: Ping/Dockerfile
+    networks:
+      - rede_appselenium
+
+  standalone-chrome:
+    image: 'selenium/standalone-chrome:3.141.59-dubnium'
+    container_name: standalone-chrome
+    ports:
+      - '4444:4444'
+    volumes:
+      - '/dev/shm:/dev/shm'
+    networks:
+      - rede_appselenium
+
+networks: 
+    rede_appselenium:
+        driver: bridge
